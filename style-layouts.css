@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+}
+
+nav {
+  width: 200px;
+}
+
+.flex-column {
+  flex: 1;
+}
+
+.vertical-container {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid grey;
+}
+
+.vertical-container div {
+  border: 2px solid black;
+}
