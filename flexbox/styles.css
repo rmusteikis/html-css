@@ -20,13 +20,12 @@
   justify-content: space-between;
 }
 
-.links {
-  display: flex;
-  justify-content: flex-end;
-}
-
 .login {
   margin-left: 20px;
+}
+
+.signup {
+  margin-left: auto;
 }
 
 .header-container {
@@ -96,4 +95,7 @@
   flex: initial;
   width: 300px;
 }
+
+
+
 
